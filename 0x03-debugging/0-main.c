@@ -8,9 +8,8 @@
 int main(void)
 {
 	int i;
-	int j;
 
 	i = 0;
-	j = positive_or_negative(i);
-	return (j);
+	if (!positive_or_negative(i))
+	return (0);
 }
