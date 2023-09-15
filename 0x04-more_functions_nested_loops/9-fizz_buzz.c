@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * fizz_buzz - A random fizz buzz game
+ * main - A random fizz buzz game
  * Return: String of letters
  */
 int main(void)
