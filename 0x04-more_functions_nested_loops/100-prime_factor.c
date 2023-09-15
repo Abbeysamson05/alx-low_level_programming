@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main  - Checks for prime factors
+ * main  - Checks for prime factors and print highest of the factors
  * Return: Void.
  */
 int main(void)
