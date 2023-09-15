@@ -1,4 +1,3 @@
-task 3
 #include "main.h"
 /**
  * print_numbers - Print digit 0 to 9
