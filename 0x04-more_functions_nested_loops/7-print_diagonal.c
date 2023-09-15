@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_line - Draw a diagonal line
+ * print_diagonal - Draw a diagonal line
  * @n: function parameter
  * Return: Void.
  */
@@ -17,7 +17,6 @@ void print_diagonal(int n)
 		for (c = 0; c < n; c++)
 		{
 			_putchar('\\');
-			_putchar('\n');
 		}
 		_putchar('\n');
 	}
