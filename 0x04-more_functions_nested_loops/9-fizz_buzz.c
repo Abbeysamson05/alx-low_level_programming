@@ -1,9 +1,10 @@
 #include <stdio.h>
+#include "main.h"
 /**
  * fizz_buzz - A random fizz buzz game
  * Return: String of letters
  */
-void main(void)
+int main(void)
 {
 	int i;
 
@@ -30,4 +31,5 @@ void main(void)
 			putchar(' ');
 		}
 	}
+	return (0);
 }
