@@ -9,7 +9,7 @@ int main(void)
 	long j = 612852475143;
 	int largest;
 
-	while (j > 0)
+	while (j != 1)
 	{
 		if ((j % 2) == 0)
 		{
@@ -37,6 +37,5 @@ int main(void)
 			largest = 31;
 		}
 	}
-	printf("%d", largest);
 	return (largest);
 }
