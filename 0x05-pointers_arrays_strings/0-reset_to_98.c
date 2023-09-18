@@ -4,6 +4,7 @@
 /**
  * main - check the code
  * reset_to_98 - Resets variable to 98 .
+ *
  * @n: parameter
  * Return: Void.
  */

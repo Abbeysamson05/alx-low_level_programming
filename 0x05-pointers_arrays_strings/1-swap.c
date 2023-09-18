@@ -1,6 +1,7 @@
 /**
  * main - check the code
  * swap_int - Swap the values of two variables
+ *
  * @a: parameter
  * @b: parameter
  * Return: Void.
