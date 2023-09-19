@@ -2,7 +2,6 @@
 #include <string.h>
 
 /**
- * main - check the code
  * rev_string - Resets variable to 98 .
  * @s: parameter
  * Return: Void.

@@ -2,7 +2,6 @@
 #include <string.h>
 
 /**
- * main - check the code
  * puts2 - Resets variable to 98 .
  * @str: parameter
  * Return: Void.

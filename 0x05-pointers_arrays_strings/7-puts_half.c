@@ -2,7 +2,6 @@
 #include <string.h>
 
 /**
- * main - check the code
  * puts_half - Resets variable to 98 .
  * @str: parameter
  * Return: Void.
