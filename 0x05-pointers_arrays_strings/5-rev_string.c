@@ -9,11 +9,17 @@
  */
 void rev_string(char *s)
 {
-	int i;
-	char str[(strlen(s))];
+	int length = strlen(s);
+	int start = 0;
+	int end = length - 1;
 
-	for (i = (strlen(s) - 1); i >= 0; i--)
+	while (start < end)
 	{
-		str += i;
+		chat temp = s[start];
+
+		s[start] = s[end];
+		s[end] = temp;
+		start++;
+		end--;
 	}
 }
