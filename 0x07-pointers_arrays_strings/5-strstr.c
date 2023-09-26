@@ -2,7 +2,7 @@
 
 /**
 
- * _strstr - Entry point
+ * *_strstr - Entry point
 
  * @haystack: input
 

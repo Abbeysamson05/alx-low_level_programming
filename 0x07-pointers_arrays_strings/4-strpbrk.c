@@ -2,7 +2,7 @@
 
 /**
 
- * _strpbrk - Entry point
+ * *_strpbrk - Entry point
 
  * @s: input
 
